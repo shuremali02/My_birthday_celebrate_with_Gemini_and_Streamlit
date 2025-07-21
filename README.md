@@ -13,9 +13,3 @@ This Streamlit app generates heartfelt, fun, and inspiring birthday wishes and s
 
 ---
 
-## 🚀 How to Run This App Locally
-
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/your-username/birthday-wish-generator.git
-   cd birthday-wish-generator
